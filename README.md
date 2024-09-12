@@ -2,6 +2,11 @@
 
 I'm Vira, and I am currently pursuing a degree in Informatics. I have a strong interest in UI/UX design, as well as web and mobile development. I am passionate about creating user-friendly digital experiences and constantly learning new skills in these areas.<br>
 
+### 🖥 My Skills
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+
+
 <!--### Tech Stack
 
 ### Github Statistic
@@ -12,9 +17,11 @@ I'm Vira, and I am currently pursuing a degree in Informatics. I have a strong i
 </a>
 </p>-->
 
-### Reach me on
-* [Linkedin](https://www.linkedin.com/in/vira-sare-730840252/)
-* [Instagram](https://www.instagram.com/vira_sare/)
+### 📧 Reach me on
+
+[![Linkedin](https://img.shields.io/badge/virasare%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vira-sare-730840252/)<br/>
+[![Instagram](https://img.shields.io/badge/vira_sare%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/vira-sare-730840252/)<br/>
+[![Github](https://img.shields.io/badge/virasare%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/virasare)
 
 <!--
 **virasare/virasare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
