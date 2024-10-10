@@ -4,7 +4,8 @@ I'm Vira, and I am currently pursuing a degree in Informatics. I have a strong i
 
 ### 🖥 Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%33CC5A.svg?style=for-the-badge&logo=android-studio&logoColor=white)<br>
 
 
 <!--### Tech Stack
