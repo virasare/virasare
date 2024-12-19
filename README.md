@@ -21,7 +21,7 @@ I'm Vira, and I am currently pursuing a degree in Informatics. I have a strong i
 ### 📧 Reach me on
 
 [![Linkedin](https://img.shields.io/badge/virasare%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/virasare)
-[![Instagram](https://img.shields.io/badge/vira_sare%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.linkedin.com/in/vira-sare-730840252/)
+[![Instagram](https://img.shields.io/badge/vira_sare%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vira_sare/)
 [![Github](https://img.shields.io/badge/virasare%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/virasare)
 
 <!--
