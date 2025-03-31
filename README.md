@@ -27,7 +27,7 @@ I'm passionate about creating **user-friendly digital experiences**. My interest
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=virasare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virasare&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -38,7 +38,7 @@ I'm passionate about creating **user-friendly digital experiences**. My interest
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=virasare&theme=tokyonight&hide_border=false"/>
 </p>
 
----
+----->
 
 ### 🌎 Connect with Me
 <p align="left">
