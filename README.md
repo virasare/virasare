@@ -1,5 +1,5 @@
 ## Hi there, I'm **Vira**! 👋  
-🎓 Informatics Student | 🎨 UI/UX Enthusiast | 💻 Web & Mobile Developer  
+🎓 Informatics Student | 🎨 UI/UX Enthusiast | 💻 Web & Mobile Developer | 📊 Exploring Data Analysis
 
 ---
 
