@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I'm passionate about creating **user-friendly digital experiences**. My interests lie in **UI/UX design**, **web development**, and **mobile development**. I love learning new technologies and improving my skills every day. ✨
+I'm passionate about creating **user-friendly digital experiences**. My interests lie in **UI/UX design**, **web development**, **mobile development**, and recently exploring the world of **data analysis**. I love learning new technologies and improving my skills every day. ✨
 
 ---
 
@@ -25,20 +25,12 @@ I'm passionate about creating **user-friendly digital experiences**. My interest
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2333CC5A.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+#### 📊 Data Analysis
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Google_Looker_Studio-%230072C6.svg?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-%23F7921C.svg?style=for-the-badge&logo=orange&logoColor=white)
+
 ---
-
-<!--### 📊 GitHub Stats
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=virasare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virasare&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-📈 **GitHub Streak** 🔥
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=virasare&theme=tokyonight&hide_border=false"/>
-</p>
-
------>
 
 ### 🌎 Connect with Me
 <p align="left">
